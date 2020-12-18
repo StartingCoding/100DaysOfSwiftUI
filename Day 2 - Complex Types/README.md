@@ -9,3 +9,5 @@ Practiced with simple types:
 - Tuples
 - Dictionaries
 - Enums
+
+https://www.hackingwithswift.com/100/swiftui/2

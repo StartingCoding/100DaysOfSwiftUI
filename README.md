@@ -7,4 +7,4 @@
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
-[Day 2 - Complex Types]: Day%201%20-%20Complex%20Types
+[Day 2 - Complex Types]: Day%202%20-%20Complex%20Types

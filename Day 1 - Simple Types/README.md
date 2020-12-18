@@ -10,3 +10,5 @@ Practiced with simple types:
 - Double and Booleans
 - String Interpolation
 - Type Annotations
+
+https://www.hackingwithswift.com/100/swiftui/1
