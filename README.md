@@ -5,4 +5,4 @@
 - [Day 1 - Simple Types][]: variables, simple data types, and string interpolation.
 
 <!-- Links -->
-[Day 1 - Simple Types]: Day%201:%20Simple%20Types
+[Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
