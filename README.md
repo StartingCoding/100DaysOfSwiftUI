@@ -13,4 +13,4 @@
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
 [Day 3 - Operators and Conditions]: Day%203%20-%20Operators%20and%20Conditions
 [Day 4 - Loops]: Day%204%20-%20Loops
-[Day 5 - Functions]: Day%205%20-%Functions
+[Day 5 - Functions]: Day%205%20-%20Functions
