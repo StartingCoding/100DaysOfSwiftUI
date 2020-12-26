@@ -4,7 +4,7 @@
 ![Day 6](Screenshot/day6part2.png)
 
 Practiced with closures:
-- Bsic Closure
+- Basic Closure
 - Accepting Parameter in a Closure
 - Returning Values from a Closure
 - Closure as Parameters
