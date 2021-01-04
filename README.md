@@ -9,6 +9,7 @@
 - [Day 5 - Functions][]: functions, parameters and errors
 - [Day 6 - Closures][]: closures
 - [Day 7 - Closures Part 2][]: closures part 2
+- [Day 8 - Structs][]: structs
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -18,3 +19,4 @@
 [Day 5 - Functions]: Day%205%20-%20Functions
 [Day 6 - Closures]: Day%206%20-%20Closures
 [Day 7 - Closures Part 2]: Day%207%20-%20Closures%20Part%202
+[Day 8 - Structs]: Day%208%20-%20Structs
