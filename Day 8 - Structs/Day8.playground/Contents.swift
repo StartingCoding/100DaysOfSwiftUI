@@ -1,13 +1,13 @@
 import Foundation
 
-// Structs
+// MARK: Structs
 struct ThisIsAStruct {
     var property: String
 }
 var instanceOfTheStruct = ThisIsAStruct(property: "some string")
 print(instanceOfTheStruct.property)
 
-// Computed Properties
+// MARK: Computed Properties
 struct ComputedProperties {
     var thisIsAStoredProperty: String
     
@@ -19,7 +19,7 @@ let computedInstance = ComputedProperties(thisIsAStoredProperty: "This is a fixe
 print(computedInstance.thisIsAStoredProperty)
 print(computedInstance.thisIsAComputedProperty)
 
-// Property Observers
+// MARK: Property Observers
 struct ObserversProperties {
     var storedProperty: String
     var thisIsAPropertyObersver: String {
@@ -32,7 +32,7 @@ var observerInstance = ObserversProperties(storedProperty: "This is stored", thi
 print(observerInstance.thisIsAPropertyObersver)
 observerInstance.thisIsAPropertyObersver = "change"
 
-// Methods
+// MARK: Methods
 struct Methods {
     var someValue = "This is some value"
     var otherValue = "That's aother value"
@@ -48,7 +48,7 @@ struct Methods {
 let exampleMethod = Methods()
 exampleMethod.printingValues()
 
-// Mutating Methods
+// MARK: Mutating Methods
 struct MutatingMethods {
     var thisVlaueWillBeChangedIn = "Intial value"
     mutating func changeValue() {
@@ -60,10 +60,10 @@ print("Before call to mutating func -> \(exampleMutatingMethods.thisVlaueWillBeC
 exampleMutatingMethods.changeValue()
 print("After call to mutating func -> \(exampleMutatingMethods.thisVlaueWillBeChangedIn)")
 
-// Strings are Structs
+// MARK: Strings are Structs
 let exampleString = "Strings are Structs"
 print("This is a method of a struct (String) containing: \(exampleString.count) characters")
 
-// Arrays are Structs
+// MARK: Arrays are Structs
 let exampleArray = ["Arrays", "are", "also", "Structs"]
 print("This is a method of a struct (Array) containing: \(exampleArray.count) items")

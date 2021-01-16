@@ -1,6 +1,6 @@
 import Foundation
 
-// Initializer
+// MARK: Initializer
 struct StructWithDefaultMemberwiseInitializer {
     var someProperty = "Some string"
 }
@@ -16,14 +16,14 @@ struct StructWithCustomInitializer {
 }
 let exampleOfStructWithCustomInitializer = StructWithCustomInitializer()
 
-// Lazy Properties
+// MARK: Lazy Properties
 struct StructWithLazy {
     lazy var someLazyProperty = "This string will be created only when accessed"
 }
 var exmapleOfStructWithLazy = StructWithLazy()
 print("\(exmapleOfStructWithLazy.someLazyProperty)")
 
-// Static Properties and Methods
+// MARK: Static Properties and Methods
 struct StaticStruct {
     static var count = 0
     
@@ -38,7 +38,7 @@ let exampleOfStaticStructFour = StaticStruct()
 let exampleOfStaticStructFive = StaticStruct()
 print("Static property will get assigned to type itself and not on the instance of the struct so making multiple instance of the same struct type like this it will call the init and make the count go up to \(StaticStruct.count)")
 
-// Access Control
+// MARK: Access Control
 struct StructWithAccessControl {
     private var thisPropertyIsPrivate = "Some private value"
     

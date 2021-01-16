@@ -1,25 +1,25 @@
 import Foundation
 
-// Basic Closure
+// MARK: Basic Closure
 let closure = {
     print("This is a closure stores in a variable")
 }
 closure()
 
-// Accepting Parameters in closures
+// MARK: Accepting Parameters in closures
 let closureAcceptingParamter = { (parameter: String) in
     print("This closure accept this \(parameter)")
 }
 closureAcceptingParamter("string parameter")
 
-// Returning values from a closure
+// MARK: Returning values from a closure
 let closureReturningValue = { (something: String) -> String in
     return "This closure return this string with this paramater -> " + something
 }
 let message = closureReturningValue("This is a string")
 print(message)
 
-// Closure as paramter
+// MARK: Closure as paramter
 let closureParameter = {
     print("This code runs from a closure")
 }
@@ -32,7 +32,7 @@ func printDifferentStrings(printSomethingFrom: () -> Void) {
 
 printDifferentStrings(printSomethingFrom: closureParameter)
 
-// Trailing closure
+// MARK: Trailing closure
 func thisFuncTakesAClosureToTheEnd(trailingClosure: () -> Void) {
     print("This function will print this string and run whatever closure is passed by")
     trailingClosure()

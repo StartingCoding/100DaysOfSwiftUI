@@ -1,6 +1,6 @@
 import Foundation
 
-// Closures as Parameteres when accepting a Paramter
+// MARK: Closures as Parameteres when accepting a Paramter
 func funcThatTakesAClosureWithParameters(closureWithParamter: (String) -> Void) {
     closureWithParamter("this string that is the parameter of the closure")
 }
@@ -9,7 +9,7 @@ funcThatTakesAClosureWithParameters { (parameter: String) in
     print("This code will print \(parameter)")
 }
 
-// Closures as Parameteres when accepting a Paramter and Return a value
+// MARK: Closures as Parameteres when accepting a Paramter and Return a value
 func reduceUsingClosure(_ numbersToAdd: [Int], closureThatReduces: (Int, Int) -> Int) -> Int {
     print("I'm calculating...")
     var initial = numbersToAdd[0]
@@ -28,7 +28,7 @@ let sum = reduceUsingClosure(numbers) { (initial: Int, nextNumber: Int) in
 }
 print(sum)
 
-// Shorthand Parameter names
+// MARK: Shorthand Parameter names
 func funcForShorthand(closureShorthand: (String) -> String) {
     print("Printing something...")
     let message = closureShorthand("Printing something ")
@@ -53,7 +53,7 @@ funcForShorthand { somethingEvenShorterThatThisParameterNameIsLonger in
 
 funcForShorthand { $0 + "using tiny syntax" } // $0, $1, $3 are closure paramteres
 
-// Returning Closures form Functions
+// MARK: Returning Closures form Functions
 func thisFuncReturnsAClosureThatReturnsString() -> () -> String {
     print("This code will run when the function is called")
     let closureInsideFucntion = { "This string is inside a closure that is inside a function so it will be run if the function is already being called." }
@@ -64,7 +64,7 @@ let functionCall = thisFuncReturnsAClosureThatReturnsString()
 let closureCall = functionCall()
 print(closureCall)
 
-// Capturing Values
+// MARK: Capturing Values
 func capturingValues() -> () -> Void {
     var variableInFunction = "a string inside a function"
     

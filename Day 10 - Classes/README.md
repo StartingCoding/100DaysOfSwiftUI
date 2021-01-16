@@ -3,7 +3,6 @@
 ![Day 10](Screenshot/day10part1.png)
 ![Day 10](Screenshot/day10part2.png)
 ![Day 10](Screenshot/day10part3.png)
-![Day 10](Screenshot/day10part4.png)
 
 Practiced with Classes:
 - Initializers

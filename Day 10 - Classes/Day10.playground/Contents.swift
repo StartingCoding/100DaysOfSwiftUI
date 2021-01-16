@@ -1,6 +1,6 @@
 import Foundation
 
-// Classes
+// MARK: Classes
 class ThisIsAClass {
     var someProperty: String
     
@@ -10,7 +10,7 @@ class ThisIsAClass {
 }
 let exmapleOfClass = ThisIsAClass(someProperty: "This is a string")
 
-// Class Inheritance
+// MARK: Class Inheritance
 class ParentClass { // Parent Class/Super Class
     var someProperty: String
     init(somePropertyFromClass: String) {
@@ -26,7 +26,7 @@ class ChildClass: ParentClass { // Child Class/Sub Class
 let exampleOfSuperClass = ParentClass(somePropertyFromClass: "This string is made from a superclass")
 let exampleOfSubClass = ChildClass(somePropertyFromSubclass: "This string is made from a subclass")
 
-// Override
+// MARK: Override
 class OriginalClass {
     func printAString() {
         print("This is a string from original class")
@@ -41,12 +41,12 @@ class OverrideClass: OriginalClass {
 let exampleOfOverrideClass = OverrideClass()
 exampleOfOverrideClass.printAString()
 
-// Final
+// MARK: Final
 class BaseClass { }
 class SubClass: BaseClass { }
 final class ThisClassCannotBeSubclassedOrModified: SubClass { }
 
-// Copying Objects (Value Type/Reference Type)
+// MARK: Copying Objects (Value Type/Reference Type)
 class ObjectClass {
     var someProperty = "This is a string"
 }
@@ -60,7 +60,7 @@ print(secondPointer.someProperty) // classes = multiple instances have the same 
 print(fourthPointer.someProperty) // structs = every istance of the struct holds their own data
 print(firstPointer.someProperty)  //           instead of sharing it
 
-// Deinitializers
+// MARK: Deinitializers
 class DeinitializedClass {
     var someProperty = "This is a string"
     
@@ -76,7 +76,7 @@ for _ in 1...3 {
     DeinitializedClass()
 }
 
-// Mutability
+// MARK: Mutability
 class VariableClass { var variableProperty = "can be changed" }
 class ConstantClass { var variableProperty = "can be changed" }
 struct VariableStruct { var variableProperty = "can be changed" }

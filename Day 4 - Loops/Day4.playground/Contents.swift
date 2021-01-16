@@ -1,25 +1,25 @@
 import Foundation
 
-// For Loops
+// MARK: For Loops
 let arrayExample = ["This", "is", "an", "example", "for", "loops"]
 for stringExample in arrayExample {
     print(stringExample)
 }
 
-// While Loops
+// MARK: While Loops
 var finish = 10
 while finish <= 20 {
     print(finish)
     finish += 1
 }
 
-// Repeat Loop
+// MARK: Repeat Loop
 var finishRepeatLoop: Int
 repeat {
     finishRepeatLoop = 20
 } while finishRepeatLoop < 20
 
-// Exiting Loops
+// MARK: Exiting Loops
 let arrayBreaking = ["This", "should", "stop", "here", "and", "not", "there"]
 var indexArrayBreaking = 0
 for stringBreak in arrayBreaking {
@@ -32,7 +32,7 @@ for stringBreak in arrayBreaking {
 
 print("We stop here on the index: \(indexArrayBreaking)")
 
-// Exiting Multiple Loops
+// MARK: Exiting Multiple Loops
 outerLoop: for i in 0...10 {
     for j in 0...10 {
         for k in 0...10 {
@@ -44,7 +44,7 @@ outerLoop: for i in 0...10 {
     }
 }
 
-// Skipping Items
+// MARK: Skipping Items
 for evenNumber in 0...10 {
     if evenNumber % 2 != 0 {
         continue

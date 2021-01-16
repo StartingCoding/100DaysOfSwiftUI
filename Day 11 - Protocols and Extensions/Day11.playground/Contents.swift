@@ -1,11 +1,11 @@
 import Foundation
 
-// Protocols
+// MARK: Protocols
 protocol ThisIsAProtocol {
     var thisIsTheRequirementToConformToThisProtocol: String { get set }
 }
 
-// Protocols Inheritance
+// MARK: Protocols Inheritance
 protocol ThisIsOneProtocol {
     func getSomeString() -> String
 }
@@ -16,7 +16,7 @@ protocol ThisIsAnotherProtocol {
 
 protocol ProtocolThatInhertiFromMultipleProtocols: ThisIsOneProtocol, ThisIsAnotherProtocol { }
 
-// Extensions
+// MARK: Extensions
 extension String {
     var extensionOfString: String {
         return self + " from an extension"
@@ -25,7 +25,7 @@ extension String {
 let exampleOfStringExtension = "This is a string"
 print(exampleOfStringExtension.extensionOfString)
 
-// Protocol Extension
+// MARK: Protocol Extension
 extension CustomStringConvertible {
     var extensionForConvertingString: String {
         return "This is a string made by an extension of a protocol that is used by mulitple types\n\(self)"

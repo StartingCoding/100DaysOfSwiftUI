@@ -1,16 +1,16 @@
 import Foundation
 
-// Otionals
+// MARK: Otionals
 var str: String? = "Hello, playground"
 
-// Unwrapping Optionals - if let
+// MARK: Unwrapping Optionals - if let
 if let unwrappedString = str {
     print("The string exists and has a value of \(unwrappedString)")
 } else {
     print("The string doesn't exists yet")
 }
 
-// Unwrapping Optionals - guard let
+// MARK: Unwrapping Optionals - guard let
 func someFuncCheckingForOptionals(someOptionalString: String?) {
     guard let unwrappedSomeOptionalString = someOptionalString else { return }
     // The variable unwrapped can be used outside the guard statement
@@ -19,14 +19,14 @@ func someFuncCheckingForOptionals(someOptionalString: String?) {
 let exampleOfGuardLet = "Some string"
 someFuncCheckingForOptionals(someOptionalString: exampleOfGuardLet)
 
-// Force Unwrapping
+// MARK: Force Unwrapping
 let absolutelySafeToUnwrapBecauseIHandTypedIt = "42"
 let intNonOptional = Int(absolutelySafeToUnwrapBecauseIHandTypedIt)!
 // This is Int because we use the force
 // uwrapp "!" otherwise is Optional(Int)
 print(type(of: intNonOptional))
 
-// Implicitly Unwrapped Optionals
+// MARK: Implicitly Unwrapped Optionals
 let implicitlyUnwrappedOptional: String! = "something"
 let exampleOfUsingIUOs: String = implicitlyUnwrappedOptional
 // The optional is still Optional(String) but we can we can use it without unwrapping.
@@ -35,19 +35,19 @@ let exampleOfUsingIUOs: String = implicitlyUnwrappedOptional
 // Make sure when you're using one it's not nil because it will crash
 print(exampleOfUsingIUOs)
 
-// Nil Coalescing
+// MARK: Nil Coalescing
 let optionaltoUnwrapUsingNilCoalescing: String? = nil
 let exampleOfNilCoalescing = optionaltoUnwrapUsingNilCoalescing ?? "Deafult value if the optional is nil"
 print(type(of: exampleOfNilCoalescing))     // Nil coalescing doesn't return an Optional
 
-// Optional Chaining
+// MARK: Optional Chaining
 let optionalChaining: String? = nil
 let exampleOfOptionalChaining = optionalChaining?.last?.uppercased()
 // if an optional is nil the chain stops and return nil
 // else continues and returns the optional
 let otherExampleOfOptionalChaining = optionalChaining?.uppercased() ?? "NIL"
 
-// Optional Try
+// MARK: Optional Try
 func canThrow() throws -> String {
     return "This is a string"
 }
@@ -67,7 +67,7 @@ if let resultOfTry = try? canThrow() {      // Using otpional try will return th
 try! canThrow()                             // Use when you know it doesn't throw an error,
                                             // if the func throw like this it will crash
 
-// Failable Initializers
+// MARK: Failable Initializers
 struct SomeFailableStruct {
     var someProperty: String
     
@@ -82,7 +82,7 @@ struct SomeFailableStruct {
 let exampleOfSomeFailableStruct = SomeFailableStruct(someProperty: "This will fail")
 let anotherExampleOfSomeFailableStruct = SomeFailableStruct(someProperty: "This will not fail")
 
-// Typecasting
+// MARK: Typecasting
 class SuperClass { }
 class SubClassOne: SuperClass { }
 class SubClassTwo: SuperClass { }
