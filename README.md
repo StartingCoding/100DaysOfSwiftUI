@@ -15,6 +15,9 @@
 - [Day 11 - Protocols and Extensions][]: protocols, extensions and protocol extensions
 - [Day 12 - Optionals][]: optionals, unwrapping, typecasting
 
+## Days 16-24 Starting SwiftUI
+- [Day 16 - P1 WeSplit p1][]: check-sharing app
+
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
@@ -28,3 +31,4 @@
 [Day 10 - Classes]: Day%2010%20-%20Classes
 [Day 11 - Protocols and Extensions]: Day%2011%20-%20Protocols%20and%20Extensions
 [Day 12 - Optionals]: Day%2012%20-%20Optionals
+[Day 16 - P1 WeSplit p1]: Day%2016%20-%20P1%20WeSplit%20p1
