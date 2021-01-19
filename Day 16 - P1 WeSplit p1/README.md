@@ -1,6 +1,6 @@
 # Day 16
 
-![Day 16](Screenshot/day16part1.png)
+![Day 16](Screenshot/day16.png)
 
 - Swift doesn't allow more than 10 views inside the body var of ContentView so you should Group them in Group or Section.
 - NavigationBar can have titles and buttons, and can presents new views when the user interact with it.
