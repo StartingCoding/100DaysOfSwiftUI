@@ -16,7 +16,8 @@
 - [Day 12 - Optionals][]: optionals, unwrapping, typecasting
 
 ## Days 16-24 Starting SwiftUI
-- [Day 16 - P1 WeSplit p1][]: check-sharing app
+- [Day 16 - P1 WeSplit p1][]: check-sharing app theory
+- [Day 17 - P1 WeSplit p2][]: check-sharing app practice
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -32,3 +33,4 @@
 [Day 11 - Protocols and Extensions]: Day%2011%20-%20Protocols%20and%20Extensions
 [Day 12 - Optionals]: Day%2012%20-%20Optionals
 [Day 16 - P1 WeSplit p1]: Day%2016%20-%20P1%20WeSplit%20p1
+[Day 17 - P1 WeSplit p2]: Day%2017%20-%20P1%20WeSplit%20p2
