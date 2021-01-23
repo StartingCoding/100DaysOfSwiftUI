@@ -18,6 +18,7 @@
 ## Days 16-24 Starting SwiftUI
 - [Day 16 - P1 WeSplit p1][]: check-sharing app theory
 - [Day 17 - P1 WeSplit p2][]: check-sharing app practice
+- [Day 18 - P1 WeSplit p3][]: check-sharing app final
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -34,3 +35,4 @@
 [Day 12 - Optionals]: Day%2012%20-%20Optionals
 [Day 16 - P1 WeSplit p1]: Day%2016%20-%20P1%20WeSplit%20p1
 [Day 17 - P1 WeSplit p2]: Day%2017%20-%20P1%20WeSplit%20p2
+[Day 18 - P1 WeSplit p3]: Day%2018%20-%20P1%20WeSplit%20p3
