@@ -2,6 +2,11 @@
 
 ![Day 20](Screenshot/day20.gif)
 
-Challenge Day: create an app that converts between units
+Practiced with:
+- Colors
+- Gradient
+- Button
+- Image
+- Alert
 
 https://www.hackingwithswift.com/100/swiftui/20
