@@ -22,6 +22,7 @@
 - [Day 19 - Challenge UnitConverter][]: unit converter app
 - [Day 20 - P2 GuessTheFlag p1][]: guessing game theory
 - [Day 21 - P2 GuessTheFlag p2][]: guessing game practice
+- [Day 21 - P2 GuessTheFlag p3][]: guessing game final
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -42,3 +43,4 @@
 [Day 19 - Challenge UnitConverter]: Day%2019%20-%20Challenge%20UnitConverter
 [Day 20 - P2 GuessTheFlag p1]: Day%2020%20-%20P2%20GuessTheFlag%20p1
 [Day 21 - P2 GuessTheFlag p2]: Day%2021%20-%20P2%20GuessTheFlag%20p2
+[Day 22 - P2 GuessTheFlag p3]: Day%2022%20-%20P2%20GuessTheFlag%20p3
