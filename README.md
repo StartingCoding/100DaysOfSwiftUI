@@ -23,6 +23,7 @@
 - [Day 20 - P2 GuessTheFlag p1][]: guessing game theory
 - [Day 21 - P2 GuessTheFlag p2][]: guessing game practice
 - [Day 22 - P2 GuessTheFlag p3][]: guessing game final
+- [Day 23 - P3 ViewsAndModifiers p1][]: technique project on views and modifiers
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -44,3 +45,4 @@
 [Day 20 - P2 GuessTheFlag p1]: Day%2020%20-%20P2%20GuessTheFlag%20p1
 [Day 21 - P2 GuessTheFlag p2]: Day%2021%20-%20P2%20GuessTheFlag%20p2
 [Day 22 - P2 GuessTheFlag p3]: Day%2022%20-%20P2%20GuessTheFlag%20p3
+[Day 23 - P3 ViewsAndModifiers p1]: Day%2023%20-%20P3%20ViewsAndModifiers%20p1
