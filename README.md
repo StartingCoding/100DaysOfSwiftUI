@@ -26,6 +26,9 @@
 - [Day 23 - P3 ViewsAndModifiers p1][]: technique project on views and modifiers theory
 - [Day 24 - P3 ViewsAndModifiers p2][]: technique project on views and modifiers final
 
+## Day 25 Consolidation II
+- [Day 25 - MP1-3 RockPaperScissors][]: Milestone: Projects 1-3
+
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
@@ -48,3 +51,4 @@
 [Day 22 - P2 GuessTheFlag p3]: Day%2022%20-%20P2%20GuessTheFlag%20p3
 [Day 23 - P3 ViewsAndModifiers p1]: Day%2023%20-%20P3%20ViewsAndModifiers%20p1
 [Day 24 - P3 ViewsAndModifiers p2]: Day%2024%20-%20P3%20ViewsAndModifiers%20p2
+[Day 25 - MP1-3 RockPaperScissors]: Day%2025%20-%20MP1-3%20RockPaperScissors
