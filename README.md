@@ -29,6 +29,9 @@
 ## Day 25 Consolidation II
 - [Day 25 - MP1-3 RockPaperScissors][]: Milestone: Projects 1-3
 
+## Days 26-34 Expanding Your Skills
+- [Day 26 - P4 BetterRest p1][]: predicitions on sleeps for coffee drinkers on CreateML
+
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
@@ -52,3 +55,4 @@
 [Day 23 - P3 ViewsAndModifiers p1]: Day%2023%20-%20P3%20ViewsAndModifiers%20p1
 [Day 24 - P3 ViewsAndModifiers p2]: Day%2024%20-%20P3%20ViewsAndModifiers%20p2
 [Day 25 - MP1-3 RockPaperScissors]: Day%2025%20-%20MP1-3%20RockPaperScissors
+[Day 26 - P4 BetterRest p1]: Day%2026%20-%20P4%20BetterRest%20p1
