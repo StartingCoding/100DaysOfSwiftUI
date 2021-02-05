@@ -1,6 +1,6 @@
 # Day 26
 
-![Day 25](Screenshot/day26.png)
+![Day 26](Screenshot/day26.png)
 
 Practiced with:
 - Stepper
