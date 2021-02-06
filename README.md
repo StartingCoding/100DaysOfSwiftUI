@@ -32,6 +32,7 @@
 ## Days 26-34 Expanding Your Skills
 - [Day 26 - P4 BetterRest p1][]: predictions on sleeps for coffee drinkers on CreateML
 - [Day 27 - P4 BetterRest p2][]: predictions on sleeps for coffee drinkers on CreateML
+- [Day 28 - P4 BetterRest p3][]: predictions on sleeps for coffee drinkers on CreateML
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -58,3 +59,4 @@
 [Day 25 - MP1-3 RockPaperScissors]: Day%2025%20-%20MP1-3%20RockPaperScissors
 [Day 26 - P4 BetterRest p1]: Day%2026%20-%20P4%20BetterRest%20p1
 [Day 27 - P4 BetterRest p2]: Day%2027%20-%20P4%20BetterRest%20p2
+[Day 28 - P4 BetterRest p3]: Day%2028%20-%20P4%20BetterRest%20p3
