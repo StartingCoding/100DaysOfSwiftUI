@@ -34,6 +34,7 @@
 - [Day 27 - P4 BetterRest p2][]: predictions on sleeps for coffee drinkers on CreateML
 - [Day 28 - P4 BetterRest p3][]: predictions on sleeps for coffee drinkers on CreateML
 - [Day 29 - P5 WordScramble p1][]: game using Bundle, String, fatalError() - theory
+- [Day 30 - P5 WordScramble p2][]: game using Bundle, String, fatalError() - practice
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -62,3 +63,4 @@
 [Day 27 - P4 BetterRest p2]: Day%2027%20-%20P4%20BetterRest%20p2
 [Day 28 - P4 BetterRest p3]: Day%2028%20-%20P4%20BetterRest%20p3
 [Day 29 - P5 WordScramble p1]: Day%2029%20-%20P5%20WordScramble%20p1
+[Day 30 - P5 WordScramble p2]: Day%2030%20-%20P5%20WordScramble%20p2
