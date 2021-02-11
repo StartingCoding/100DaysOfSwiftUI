@@ -37,6 +37,7 @@
 - [Day 30 - P5 WordScramble p2][]: game using Bundle, String, fatalError() - practice
 - [Day 31 - P5 WordScramble p3][]: game using Bundle, String, fatalError() - final
 - [Day 32 - P6 Animations p1][]: technique project on animations
+- [Day 33 - P6 Animations p2][]: technique project on animations and transitions
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -68,3 +69,4 @@
 [Day 30 - P5 WordScramble p2]: Day%2030%20-%20P5%20WordScramble%20p2
 [Day 31 - P5 WordScramble p3]: Day%2031%20-%20P5%20WordScramble%20p3
 [Day 32 - P6 Animations p1]: Day%2032%20-%20P6%20Animations%20p1
+[Day 33 - P6 Animations p2]: Day%2033%20-%20P6%20Animations%20p2
