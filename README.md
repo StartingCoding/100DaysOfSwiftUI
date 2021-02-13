@@ -40,6 +40,9 @@
 - [Day 33 - P6 Animations p2][]: technique project on animations and transitions
 - [Day 34 - P6 Animations p3][]: technique project on animations and transitions - final
 
+## Day 35 Consolidation III
+- [Day 35 - MP4-6 TimesTables][]: Milestone: Projects 4-6
+
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
@@ -72,3 +75,4 @@
 [Day 32 - P6 Animations p1]: Day%2032%20-%20P6%20Animations%20p1
 [Day 33 - P6 Animations p2]: Day%2033%20-%20P6%20Animations%20p2
 [Day 34 - P6 Animations p3]: Day%2034%20-%20P6%20Animations%20p3
+[Day 35 - MP4-6 TimesTables]: Day%2035%20-%20MP4-6%20TimesTables
