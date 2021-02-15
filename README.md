@@ -44,7 +44,8 @@
 - [Day 35 - MP4-6 TimesTables][]: Milestone: Projects 4-6
 
 ## Days 36-46: Scaling up to Bigger Apps
-- [Day 36 - P7 iExpense p1][]: app with multiple Views to track personal and business costs
+- [Day 36 - P7 iExpense p1][]: app with multiple Views to track personal and business costs - theory
+- [Day 37 - P7 iExpense p2][]: app with multiple Views to track personal and business costs - practice
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -80,3 +81,4 @@
 [Day 34 - P6 Animations p3]: Day%2034%20-%20P6%20Animations%20p3
 [Day 35 - MP4-6 TimesTables]: Day%2035%20-%20MP4-6%20TimesTables
 [Day 36 - P7 iExpense p1]: Day%2036%20-%20P7%20iExpense%20p1
+[Day 37 - P7 iExpense p2]: Day%2037%20-%20P7%20iExpense%20p2
