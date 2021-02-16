@@ -46,6 +46,7 @@
 ## Days 36-46: Scaling up to Bigger Apps
 - [Day 36 - P7 iExpense p1][]: app with multiple Views to track personal and business costs - theory
 - [Day 37 - P7 iExpense p2][]: app with multiple Views to track personal and business costs - practice
+- [Day 38 - P7 iExpense p3][]: app with multiple Views to track personal and business costs - final
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -82,3 +83,4 @@
 [Day 35 - MP4-6 TimesTables]: Day%2035%20-%20MP4-6%20TimesTables
 [Day 36 - P7 iExpense p1]: Day%2036%20-%20P7%20iExpense%20p1
 [Day 37 - P7 iExpense p2]: Day%2037%20-%20P7%20iExpense%20p2
+[Day 38 - P7 iExpense p3]: Day%2038%20-%20P7%20iExpense%20p3
