@@ -48,6 +48,7 @@
 - [Day 37 - P7 iExpense p2][]: app with multiple Views to track personal and business costs - practice
 - [Day 38 - P7 iExpense p3][]: app with multiple Views to track personal and business costs - final
 - [Day 39 - P8 Moonshot p1][]: app for Nasa's facts - theory
+- [Day 40 - P8 Moonshot p2][]: app for Nasa's facts - practice
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -86,3 +87,4 @@
 [Day 37 - P7 iExpense p2]: Day%2037%20-%20P7%20iExpense%20p2
 [Day 38 - P7 iExpense p3]: Day%2038%20-%20P7%20iExpense%20p3
 [Day 39 - P8 Moonshot p1]: Day%2039%20-%20P8%20Moonshot%20p1
+[Day 40 - P8 Moonshot p2]: Day%2040%20-%20P8%20Moonshot%20p2
