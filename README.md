@@ -50,6 +50,7 @@
 - [Day 39 - P8 Moonshot p1][]: app for Nasa's facts - theory
 - [Day 40 - P8 Moonshot p2][]: app for Nasa's facts - practice
 - [Day 41 - P8 Moonshot p3][]: app for Nasa's facts - practice part 2
+- [Day 42 - P8 Moonshot p4][]: app for Nasa's facts - final
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -90,3 +91,4 @@
 [Day 39 - P8 Moonshot p1]: Day%2039%20-%20P8%20Moonshot%20p1
 [Day 40 - P8 Moonshot p2]: Day%2040%20-%20P8%20Moonshot%20p2
 [Day 41 - P8 Moonshot p3]: Day%2041%20-%20P8%20Moonshot%20p3
+[Day 42 - P8 Moonshot p4]: Day%2042%20-%20P8%20Moonshot%20p4
