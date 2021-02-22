@@ -52,6 +52,7 @@
 - [Day 41 - P8 Moonshot p3][]: app for Nasa's facts - practice part 2
 - [Day 42 - P8 Moonshot p4][]: app for Nasa's facts - final
 - [Day 43 - P9 Drawing p1][]: technique project on drawing
+- [Day 44 - P9 Drawing p2][]: technique project on drawing part 2
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -94,3 +95,4 @@
 [Day 41 - P8 Moonshot p3]: Day%2041%20-%20P8%20Moonshot%20p3
 [Day 42 - P8 Moonshot p4]: Day%2042%20-%20P8%20Moonshot%20p4
 [Day 43 - P9 Drawing p1]: Day%2043%20-%20P9%20Drawing%20p1
+[Day 44 - P9 Drawing p2]: Day%2044%20-%20P9%20Drawing%20p2
