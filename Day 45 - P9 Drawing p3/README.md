@@ -3,7 +3,7 @@
 ![Day 45](Screenshot/day45.gif)
 
 Practiced with:
-- .blendMode(.mulitply)
+- .blendMode(.multiply)
 - .blendMode(.screen)
 - blur()
 - saturation()
