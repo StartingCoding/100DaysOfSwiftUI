@@ -58,6 +58,7 @@
 
 ## Days 47-48 Consolidation IV
 - [Day 47 - MP7-9 HabitTracker][]: Milestone: Projects 7-9
+- [Day 48 - Expanding Your Horizons][]: Video bout Swift and iOS
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -104,3 +105,4 @@
 [Day 45 - P9 Drawing p3]: Day%2045%20-%20P9%20Drawing%20p3
 [Day 46 - P9 Drawing p4]: Day%2046%20-%20P9%20Drawing%20p4
 [Day 47 - MP7-9 HabitTracker]: Day%2047%20-%20MP7-9%20HabitTracker
+[Day 48 - Expanding Your Horizons]: Day%2048%20-%20Expanding%20Your%20Horizons
