@@ -60,6 +60,9 @@
 - [Day 47 - MP7-9 HabitTracker][]: Milestone: Projects 7-9
 - [Day 48 - Expanding Your Horizons][]: Video bout Swift and iOS
 
+## Days 49-59: Focus on Data
+- [Day 49 - P10 CupcakeCorner p1][]: app to send and receive data - theory
+
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
@@ -106,3 +109,4 @@
 [Day 46 - P9 Drawing p4]: Day%2046%20-%20P9%20Drawing%20p4
 [Day 47 - MP7-9 HabitTracker]: Day%2047%20-%20MP7-9%20HabitTracker
 [Day 48 - Expanding Your Horizons]: Day%2048%20-%20Expanding%20Your%20Horizons
+[Day 49 - P10 CupcakeCorner p1]: Day%2049%20-%20P10%20CupcakeCorner%20p1
