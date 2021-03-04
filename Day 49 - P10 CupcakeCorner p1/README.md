@@ -2,7 +2,7 @@
 
 ![Day 49](Screenshot/day49.gif)
 
-Watched Video About:
+Practiced with:
 - Codable with @Published
 - URLSession
 
