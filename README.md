@@ -63,6 +63,7 @@
 ## Days 49-59: Focus on Data
 - [Day 49 - P10 CupcakeCorner p1][]: app to send and receive data - theory
 - [Day 50 - P10 CupcakeCorner p2][]: app to send and receive data - practice
+- [Day 51 - P10 CupcakeCorner p3][]: app to send and receive data - practice part 2
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -112,3 +113,4 @@
 [Day 48 - Expanding Your Horizons]: Day%2048%20-%20Expanding%20Your%20Horizons
 [Day 49 - P10 CupcakeCorner p1]: Day%2049%20-%20P10%20CupcakeCorner%20p1
 [Day 50 - P10 CupcakeCorner p2]: Day%2050%20-%20P10%20CupcakeCorner%20p2
+[Day 51 - P10 CupcakeCorner p3]: Day%2051%20-%20P10%20CupcakeCorner%20p3

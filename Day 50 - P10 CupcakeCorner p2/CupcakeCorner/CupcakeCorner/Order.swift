@@ -5,7 +5,7 @@
 //  Created by Loris on 05/03/21.
 //
 
-import SwiftUI
+import Foundation
 
 class Order: ObservableObject {
     static let types = ["Vanilla", "Strawberry", "Chocolate", "Rainbow"]
