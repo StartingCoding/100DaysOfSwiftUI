@@ -66,6 +66,7 @@
 - [Day 51 - P10 CupcakeCorner p3][]: app to send and receive data - practice part 2
 - [Day 52 - P10 CupcakeCorner p4][]: app to send and receive data - final
 - [Day 53 - P11 Bookworm p1][]: app with CoreData - theory
+- [Day 54 - P11 Bookworm p2][]: app with CoreData - practice
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -118,3 +119,4 @@
 [Day 51 - P10 CupcakeCorner p3]: Day%2051%20-%20P10%20CupcakeCorner%20p3
 [Day 52 - P10 CupcakeCorner p4]: Day%2052%20-%20P10%20CupcakeCorner%20p4
 [Day 53 - P11 Bookworm p1]: Day%2053%20-%20P11%20Bookworm%20p1
+[Day 54 - P11 Bookworm p2]: Day%2054%20-%20P11%20Bookworm%20p2
