@@ -71,6 +71,7 @@
 - [Day 56 - P11 Bookworm p4][]: app with CoreData - final
 - [Day 57 - P12 CoreDataProject p1][]: technique project on CoreData
 - [Day 58 - P12 CoreDataProject p2][]: technique project on CoreData part 2
+- [Day 59 - P12 CoreDataProject p3][]: technique project on CoreData final
 
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
@@ -128,3 +129,4 @@
 [Day 56 - P11 Bookworm p4]: Day%2056%20-%20P11%20Bookworm%20p4
 [Day 57 - P12 CoreDataProject p1]: Day%2057%20-%20P12%20CoreDataProject%20p1
 [Day 58 - P12 CoreDataProject p2]: Day%2058%20-%20P12%20CoreDataProject%20p2
+[Day 59 - P12 CoreDataProject p3]: Day%2059%20-%20P12%20CoreDataProject%20p3
