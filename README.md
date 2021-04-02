@@ -73,6 +73,9 @@
 - [Day 58 - P12 CoreDataProject p2][]: technique project on CoreData part 2
 - [Day 59 - P12 CoreDataProject p3][]: technique project on CoreData final
 
+## Days 60-61: Consolidation V
+- [Day 60 - MP10-12 FriendFace][]: MileStone: Projects 10-12
+
 <!-- Links -->
 [Day 1 - Simple Types]: Day%201%20-%20Simple%20Types
 [Day 2 - Complex Types]: Day%202%20-%20Complex%20Types
@@ -130,3 +133,4 @@
 [Day 57 - P12 CoreDataProject p1]: Day%2057%20-%20P12%20CoreDataProject%20p1
 [Day 58 - P12 CoreDataProject p2]: Day%2058%20-%20P12%20CoreDataProject%20p2
 [Day 59 - P12 CoreDataProject p3]: Day%2059%20-%20P12%20CoreDataProject%20p3
+[Day 60 - MP10-12 FriendFace]: Day%2060%20-%20MP10-12%20FriendFace
